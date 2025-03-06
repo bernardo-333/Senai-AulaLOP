@@ -1,4 +1,4 @@
-package ExercicicosLivro;
+package aula3;
 
 import java.util.Scanner;
 

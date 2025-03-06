@@ -1,4 +1,4 @@
-package EstruturasCondicionais1;
+package aula4;
 
 import java.util.Scanner;
 

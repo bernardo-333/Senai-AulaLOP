@@ -11,7 +11,7 @@ public class NumPNZ {
 		
 		double numero;
 		
-		System.out.println("Digite o numero");
+		System.out.print("Digite o numero: ");
 		numero = sc.nextDouble();
 		
 		System.out.println(" ");
@@ -19,8 +19,12 @@ public class NumPNZ {
 		if (numero > 0) {
 			System.out.println(numero + " É Positivo");
 		} else if (numero < 0) {
-			System.out.println();
+			System.out.println(numero + " É Negativo");
+		} else if (numero == 0) {
+			System.out.println(numero + " É igual zero");
 		}
+		
+		sc.close();
 
 	}
 

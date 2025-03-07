@@ -22,6 +22,8 @@ public class NumerosMaiores {
 		} else if (numero2 > numero1) {
 			System.out.println(numero2);
 		}
+
+		sc.close();
 		
 	}
 

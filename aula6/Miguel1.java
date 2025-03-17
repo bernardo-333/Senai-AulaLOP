@@ -1,4 +1,4 @@
-package AulaFiammaGrupo;
+package aula6;
 
 public class Miguel1 {
 

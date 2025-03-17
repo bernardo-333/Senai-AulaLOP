@@ -1,4 +1,4 @@
-package AulaFiammaGrupo;
+package aula6;
 
 import java.util.Scanner;
 

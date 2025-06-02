@@ -1,4 +1,4 @@
-package Aula9;
+package aula9;
 
 import java.util.Scanner;
 
@@ -6,7 +6,6 @@ public class BuscaFeiticos {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         String[] feitico = {"Aceleratio", "Defensio", "Expelliarmus", "Lumos", "Wingardium Leviosa"};
         String[] num = {"primeiro", "segundo", "terceiro", "quarto", "quinto"};
 

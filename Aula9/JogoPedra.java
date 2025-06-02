@@ -1,4 +1,4 @@
-package Aula9;
+package aula9;
 
 import java.util.Random;
 import java.util.Scanner;

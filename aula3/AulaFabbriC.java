@@ -2,7 +2,7 @@ package aula3;
 
 import java.util.Scanner;
 
-public class aulaFabbriC {
+public class AulaFabbriC {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

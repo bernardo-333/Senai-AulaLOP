@@ -3,7 +3,7 @@ package aula8;
 import java.util.Random;
 import java.util.Scanner;
 
-public class faimmavetor8 {
+public class Faimmavetor8 {
 
 	public static void main(String[] args) {
 
